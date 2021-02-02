@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Home</title>
+
+    <link rel="stylesheet" href="styles.css">
+  
+</head>
+
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="menu.html">Menu</a>
+        <a href="about.html">About</a>
+        <div class="logo"> <img src="images/JavaLogo.jpg" alt=""></div>
+        <a href="shop.html">Shop</a>
+        <a href="location.html">Locations</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <div class="home-section row">
+        <div class="column home-desc">
+            <h1>Lattes are Our Craft</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, deleniti quaerat. Et nobis sint inventore! In aliquid perspiciatis cumque incidunt.</p>
+            <a href="#" class="btn">Learn More</a>
+        </div>
+
+        <div class="column">
+            <img src="Assets/cup-3.png" alt="Images" id="imageReplace" style="width: 440px; height:440px ; transition:300ms;"/> <br>
+            <btn onclick="changeImage('Assets/cup-1.png'); ">
+                <img src="Assets/cup-1.png" alt="" class="img-icon">
+            </btn>
+            <btn onclick="changeImage('Assets/cup-2.png');">
+                <img src="Assets/cup-2.png" alt="" class="img-icon">
+            </btn>
+            <btn onclick="changeImage('Assets/cup-3.png');">
+                <img src="Assets/cup-3.png" alt="" class="img-icon">
+            </btn>
+        </div>
+        
+    </div>
+
+
+    
+
+    <script>
+        
+        function changeImage(element) {
+            document.getElementById('imageReplace').src = element;
+            document.getElementById('imageReplace').width = '400px';
+
+        }
+
+       
+    </script>
+</body>
+
+</html>
