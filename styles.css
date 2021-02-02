@@ -21,7 +21,7 @@ nav .logo img{
     width: 100px;
     margin-bottom: -10px;
 }
-a {
+nav a {
     text-decoration: none;
     margin: 0 40px;
     color: #fff;
@@ -42,6 +42,17 @@ a {
     content: "";
     display: table;
     clear: both;
+}
+
+.home-desc{
+    margin-top: 100px;
+}
+
+.btn{
+    text-decoration: none;
+    color: #000;
+    background-color: #fff;
+    
 }
 
 .img-icon{
