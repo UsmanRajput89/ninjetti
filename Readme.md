@@ -13,13 +13,13 @@ The coffee cafe website includes the following features:
 - Responsive design for optimal viewing on all devices
 
 ## Technologies Used
-This website was created using HTML and CSS. No JavaScript or other frameworks were used, so it is lightweight and fast-loading.
+This website was created using HTML and CSS. No JavaScript were used, so it is lightweight and fast-loading.
 
 ## Contributing
 Contributions are welcome! If you find any issues with the website or have any suggestions for improvements, please feel free to submit a pull request.
 
 ## Credits
-This website was designed and created by [Your Name Here]. If you use this design for your own coffee cafe website, please give credit where credit is due.
+This website was designed and created by [Usman Rajput] and it was a commercial project so don't use it in any other project without permissions
 
 ## License
 This repository is licensed under the MIT license. See `LICENSE` for more information.
