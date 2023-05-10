@@ -2,7 +2,7 @@
 This is the HTML/CSS user interface for a coffee cafe website. The design is modern and visually appealing, and it includes all the necessary pages and features for a successful coffee cafe website.
 
 ## Getting Started
-To get started, simply clone this repository to your local machine and open the `index.html` file in your browser. You can also view the live demo [here](insert-live-demo-link).
+To get started, simply clone this repository to your local machine and open the `index.html` file in your browser. You can also view the live demo [here](#).
 
 ## Features
 The coffee cafe website includes the following features:
